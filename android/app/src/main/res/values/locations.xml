@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    //pasame este listado:
+
+    Playa de Zarautz, España - Latitud: 43.2848, Longitud: -2.1722
+    Playa de Mundaka, España - Latitud: 43.4075, Longitud: -2.6914
+    Playa de Somo, España - Latitud: 43.4602, Longitud: -3.7028
+    Playa de El Palmar, España - Latitud: 36.2436, Longitud: -6.0311
+    Playa de Ribeira d'Ilhas, Portugal - Latitud: 39.0206, Longitud: -9.4192
+    Playa de Supertubos, Portugal - Latitud: 39.3686, Longitud: -9.3219
+    Playa de Praia Grande, Portugal - Latitud: 38.8169, Longitud: -9.4703
+    Playa de Pantin, España - Latitud: 43.6217, Longitud: -8.1303
+    Playa de Las Canteras, España - Latitud: 28.1376, Longitud: -15.4315
+    Playa de Peniche, Portugal - Latitud: 39.3606, Longitud: -9.3819
+    Playa de Los Locos, España - Latitud: 43.3827, Longitud: -4.2486
+    Playa de Valdoviño, España - Latitud: 43.6356, Longitud: -8.1253
+    Playa de La Zurriola, España - Latitud: 43.3211, Longitud: -1.9791
+    Playa de Barrika, España - Latitud: 43.3432, Longitud: -2.9487
+    Playa de Carcavelos, Portugal - Latitud: 38.6853, Longitud: -9.3408
+    Playa de Monte Clérigo, Portugal - Latitud: 37.3057, Longitud: -8.8638
+    Playa de Liencres, España - Latitud: 43.4667, Longitud: -3.9593
+    Playa de Matosinhos, Portugal - Latitud: 41.1817, Longitud: -8.6899
+    Playa de Sopelana, España - Latitud: 43.3671, Longitud: -3.0099
+    Playa de Guincho, Portugal - Latitud: 38.7255, Longitud: -9.4724
+    Playa de El Brusco, España - Latitud: 43.4119, Longitud: -3.4184
+    Playa de Carrapateira, Portugal - Latitud: 37.1954, Longitud: -8.9024
+    Playa de Los Lances, España - Latitud: 36.1488, Longitud: -5.4486
+    Playa de Amado, Portugal - Latitud: 37.2019, Longitud: -8.9023
+    Playa de Razo, España - Latitud: 43.2315, Longitud: -8.7289
+    Playa de Figueira da Foz, Portugal - Latitud: 40.1488, Longitud: -8.8741
+    Playa de La Cicer, España - Latitud: 28.1547, Longitud: -15.4255
+    Playa de Santa Cruz, Portugal - Latitud: 39.1454, Longitud: -9.3909
+    Playa de Euskalduna, España - Latitud: 43.3172, Longitud: -3.0351
+    Playa de Azurara, Portugal - Latitud: 41.2657, Longitud: -8.7311
+    Playa de El Medano, España - Latitud: 28.0403, Longitud: -16.5427
+    Playa de Praia da Vagueira, Portugal - Latitud: 40.5265, Longitud: -8.7795
+    Playa de Bastiagueiro, España - Latitud: 43.3435, Longitud: -8.3163
+    Playa de Carcavelos, Portugal - Latitud: 38.6794, Longitud: -9.3365
+    Playa de Zambujeira do Mar, Portugal - Latitud: 37.5249, Longitud: -8.7829
+    Playa de Castelejo, Portugal - Latitud: 37.1194, Longitud: -8.9137
+    Playa de El Confital, España - Latitud: 28.1243, Longitud: -15.4285
+    Playa de Azkorri, España - Latitud: 43.3871, Longitud: -3.0241
+    Playa de Cabedelo, Portugal - Latitud: 41.1462, Longitud: -8.6305
+    Playa de Valdevaqueros, España - Latitud: 36.0803, Longitud: -5.7264
+    Playa de Playa do Guincho, Portugal - Latitud: 38.7343, Longitud: -9.4747
+    Playa de Sardinero, España - Latitud: 43.4697, Longitud: -3.7776
+    Playa de Supertubos, Portugal - Latitud: 39.3664, Longitud: -9.3207
+    Playa de La Concha, España - Latitud: 43.3207, Longitud: -1.9814
+    Playa de Matosinhos, Portugal - Latitud: 41.1784, Longitud: -8.6969
+    Playa de Doniños, España - Latitud: 43.4644, Longitud: -8.2909
+    Playa de Praia da Bordeira, Portugal - Latitud: 37.1792, Longitud: -8.9022
+    Playa de Bastiagueiro, España - Latitud: 43.3435, Longitud: -8.3152
+    Playa de Cova do Vapor, Portugal - Latitud: 38.6941, Longitud: -9.2006
+    Playa de Valdearenas, España - Latitud: 43.4802, Longitud: -3.9381
+
+    a este formato:
+    <playas>
+        <playa>
+            <nombre<Playa de Zarautz</nombre>
+        <pais>España</pais>
+        <latitud>43.2848</latitud>
+        <longitud>-2.1722</longitud>
+    </playa>-->
+
+
+
+
+</resources>
